@@ -4,7 +4,7 @@
 
 <h1 align="center">Dalinq</h1>
 
-<p align="center"><b>One link. Any music app.</b><br/>Eén link. Elke muziekapp.</p>
+<p align="center"><b>One link. Any music app.</b></p>
 
 <p align="center">
   <a href="https://dalinq.com">dalinq.com</a> ·
